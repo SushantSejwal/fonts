@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Sushant';
+    src: url('black/Sushant-Black.woff2') format('woff2'),
+        url('black/Sushant-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Sushant';
+    src: url('black/Sushant-BlackItalic.woff2') format('woff2'),
+        url('black/Sushant-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: block;
+}
+
